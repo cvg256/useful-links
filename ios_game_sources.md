@@ -6,7 +6,8 @@ csrakowski/ScrapGame [link](https://github.com/csrakowski/ScrapGame)
 
 z3r0th/archery-blog - Archery iOS Game [link](https://github.com/z3r0th/archery-blog)
 
-aliceffekt - Many games (some studio? - http://xxiivv.com)[link](https://github.com/aliceffekt)
+aliceffekt - Many games. Some studio? - http://xxiivv.com
+[link](https://github.com/aliceffekt)
 
 mgrider/GenericGameModel - A collection of classes for 2D game development in iOS. [link](https://github.com/mgrider/GenericGameModel)
 
@@ -37,8 +38,8 @@ Fully playable iOS port of Google's AR Game Ingress. http://ios-ingress.com/
 [link](https://github.com/angelXwind/iOS-Ingress)
 
 Geardome/ozone-ios - Ozone is an acclaimed iOS game http://www.ozonehd.com
-[link](https://github.com/Geardome/ozone-ios)(
-[link](http://itunes.ozonehd.com/) appstore(
+[link](https://github.com/Geardome/ozone-ios)
+[link](http://itunes.ozonehd.com/) appstore
 
 bawbb/richard - ios tile based puzzle game (Sparrow framework)
 [link](https://github.com/bawbb/richard)(
@@ -47,37 +48,37 @@ radif/Flotte-Sprite - An interactive water simulation based on DSAqua and Cocos2
 [link](https://github.com/radif/Flotte-Sprite)(
 
 ios4u/Math-Blast - Addition matching game iOS (like Bejeweled / Candy Crush)
-[link](https://github.com/ios4u/Math-Blast)(
+[link](https://github.com/ios4u/Math-Blast)
 
 Global-Gamejam/TheReaper - Cool iOS swift game!
-[link](https://github.com/Global-Gamejam/TheReaper)(
+[link](https://github.com/Global-Gamejam/TheReaper)
 
 Mushroom minions
-[link](https://itunes.apple.com/us/app/mushroom-minions/id531581046?mt=8) appstore(
+[appstore link](https://itunes.apple.com/us/app/mushroom-minions/id531581046?mt=8) 
 
 kybernetyk/hellstorm - C++ Component Based Game Framework for iOS (with example dr mario clone game)
-[link](https://github.com/kybernetyk/hellstorm/tree/master/hellstorm/game)(
-[link](http://itunes.apple.com/us/app/texxno-pilzzz/id427962932?mt=8) appstore(
+[link](https://github.com/kybernetyk/hellstorm/tree/master/hellstorm/game)
+[appstore link](http://itunes.apple.com/us/app/texxno-pilzzz/id427962932?mt=8)
 
 judnich/IronWarfare (Tank Battle: Iron Warfare( - full featured 3D video game for iOS.
-[link](https://github.com/judnich/IronWarfare)(
+[link](https://github.com/judnich/IronWarfare)
 
 williamklein/Kontaminate - A virus game for iOS with two artificial intelligence types and depth (min-max | alpha-beta).
-[link](https://github.com/williamklein/Kontaminate)(
+[link](https://github.com/williamklein/Kontaminate)
 
 rikschennink/eve-of-impact - Eve of Impact iOS game source code http://eveofimpact.com
-[link](https://github.com/rikschennink/eve-of-impact)(
-[link](http://itunes.apple.com/us/app/eve-of-impact/id465159205?ls=1&mt=8) appstore(
+[link](https://github.com/rikschennink/eve-of-impact)
+[appstore link](http://itunes.apple.com/us/app/eve-of-impact/id465159205?ls=1&mt=8)
 
 Elanz/StarJewel - Match-3 RPG style iOS game engine
-[link](https://github.com/Elanz/StarJewel) appstore(
+[link](https://github.com/Elanz/StarJewel) appstore
 
 aliceffekt/Alphavetist - Hiragana and katakana learning app
-[link](https://github.com/aliceffekt/Alphavetist)(
+[link](https://github.com/aliceffekt/Alphavetist)
 
 insurgentgames - Many games from now defunct studio
-[link](https://github.com/insurgentgames)(
-[link](http://www.insurgentgames.com) website(
+[link](https://github.com/insurgentgames)
+[website link](http://www.insurgentgames.com)
 
 zgrossbart/bridges - A puzzle game with bridges, houses, tolls, and subways for iOS
 [link](https://github.com/zgrossbart/bridges)(
