@@ -30,7 +30,6 @@ A sample game demonstrating how to build games on iOS using cocos2d. Presented a
 [angelXwind/iOS-Ingress](https://github.com/angelXwind/iOS-Ingress)
 Fully playable iOS port of Google's AR Game Ingress. http://ios-ingress.com/
 
-
 [Geardome/ozone-ios](https://github.com/Geardome/ozone-ios) - Ozone is an acclaimed iOS game http://www.ozonehd.com
 [link](http://itunes.ozonehd.com/) appstore
 
@@ -68,8 +67,7 @@ kybernetyk/hellstorm - C++ Component Based Game Framework for iOS (with example 
 
 [Kjuly/iPokeMon](https://github.com/Kjuly/iPokeMon) - PokéMon like game on iOS with Location Based Service. http://dev.kjuly.com/iPokeMon
 
-[seanhess/wizardwar](https://github.com/seanhess/wizardwar)
- - Wizard War is an open-source multiplayer iOS game
+[seanhess/wizardwar](https://github.com/seanhess/wizardwar) - Wizard War is an open-source multiplayer iOS game
 [appstore](http://appstore.com/wizardwar) 
 
 [RolandasRazma/iLabyrinth](https://github.com/RolandasRazma/iLabyrinth) - iOS game
