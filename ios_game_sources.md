@@ -1,3 +1,11 @@
+search followers:>1000 
+https://github.com/kybernetyk - TODO
+https://github.com/SatanWoo - TODO
+https://github.com/krzysztofzablocki - TODO
+https://github.com/nicklockwood - TODO
+https://github.com/mikeash - TODO
+https://github.com/shu223 - TODO
+
 [Ben-G](https://github.com/Ben-G) - interesting stuff about SpriteBuilder, and iOS 
 
 [bryceredd/CastleHassle](https://github.com/bryceredd/CastleHassle) - A physics-based cocos2d iOS game 
