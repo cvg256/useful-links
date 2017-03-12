@@ -159,6 +159,9 @@ https://medium.com/ios-os-x-development/27-ios-open-source-libraries-to-skyrocke
 
 #iOS App sources
 
+https://github.com/yapstudios/YapDatabase/wiki/Apps-that-use-YapDatabase - TODO check apps from list
+
+
 [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - Collaborative List of Open-Source iOS Apps
 
 Open Source iOS Apps – Real iOS Source Code Examples
