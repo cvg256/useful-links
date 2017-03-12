@@ -1,10 +1,18 @@
 search followers:>1000 
+
 https://github.com/kybernetyk - TODO
+
 https://github.com/SatanWoo - TODO
+
 https://github.com/krzysztofzablocki - TODO
+
 https://github.com/nicklockwood - TODO
+
 https://github.com/mikeash - TODO
+
 https://github.com/shu223 - TODO
+
+[Simon Howard - fragglet](https://github.com/fragglet) Doom nerd. Chocolate doom and others
 
 [Ben-G](https://github.com/Ben-G) - interesting stuff about SpriteBuilder, and iOS 
 
